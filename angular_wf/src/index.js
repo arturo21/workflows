@@ -1,0 +1,15 @@
+require("../node_modules/angular/angular.js");
+require("../node_modules/angular-resource/angular-resource.min.js");
+require("../node_modules/angular-route/angular-route.min.js");
+require("../node_modules/angular-sanitize/angular-sanitize.min.js");
+require("../node_modules/angular-aria/angular-aria.min.js");
+require("../node_modules/angular-cookies/angular-cookies.min.js");
+require("../node_modules/angular-messages/angular-messages.min.js");
+require("../node_modules/angular-animate/angular-animate.min.js");
+require("../node_modules/angular-material/angular-material.min.css");
+require("../node_modules/angular-material/angular-material.min.js");
+require("./js/angular-sessions.js");
+require("./js/angular-uploadfile.js");
+require("./js/angular-main-functions.js");
+require("./js/app.js");
+require("./css/main.css");
